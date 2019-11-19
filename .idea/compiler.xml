@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springcloudstudyconsumerhystrixdashboard" />
+        <module name="springcloudstudyzuulgateway9527" />
+        <module name="springcloud-study-euraka-7001" />
+        <module name="springcloudstudyeuraka7003" />
+        <module name="springcloudstudyeuraka7002" />
+        <module name="springcloudstudyeuraka7001" />
+        <module name="springcloud-study-provider-dept-8001" />
+        <module name="springcloudstudyconfig3344" />
+        <module name="springcloud-study-consumer-dept-80" />
+        <module name="springcloudstudyproviderdepthystrix8001" />
+        <module name="springcloudstudyconsumerdept80" />
+        <module name="springcloudstudyproviderdept8003" />
+        <module name="springcloud-study-api" />
+        <module name="springcloudstudyproviderdept8001" />
+        <module name="springcloudstudyconfigclient3355" />
+        <module name="springcloudstudyproviderdept8002" />
+        <module name="springcloudstudyconsumerdeptfeign" />
+        <module name="springcloudstudyapi" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
